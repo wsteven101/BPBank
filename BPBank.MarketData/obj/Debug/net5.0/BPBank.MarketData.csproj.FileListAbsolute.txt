@@ -1,0 +1,15 @@
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\bin\Debug\net5.0\BPBank.MarketData.deps.json
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\bin\Debug\net5.0\BPBank.MarketData.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\bin\Debug\net5.0\ref\BPBank.MarketData.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\bin\Debug\net5.0\BPBank.MarketData.pdb
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\bin\Debug\net5.0\BPBank.Domain.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\bin\Debug\net5.0\BPBank.Domain.pdb
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\BPBank.MarketData.csprojAssemblyReference.cache
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\BPBank.MarketData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\BPBank.MarketData.AssemblyInfoInputs.cache
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\BPBank.MarketData.AssemblyInfo.cs
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\BPBank.MarketData.csproj.CoreCompileInputs.cache
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\BPBank.MarketData.csproj.CopyComplete
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\BPBank.MarketData.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\ref\BPBank.MarketData.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.MarketData\obj\Debug\net5.0\BPBank.MarketData.pdb

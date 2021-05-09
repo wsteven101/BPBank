@@ -1,0 +1,39 @@
+<div class="body">
+
+  <mat-toolbar color="primary">
+
+    <mat-toolbar-row>
+
+      <b>User: fred</b>
+    </mat-toolbar-row>
+
+  </mat-toolbar>
+
+  <mat-sidenav-container class="main-container">
+
+    <mat-sidenav #mainsidenav mode="side" opened class="side-section">
+      
+      <mat-list class="list-style">
+        <mat-list-item class="list-element-style">
+          <button mat-button color="primary" class="button-style" >Balances</button>
+        </mat-list-item>
+        <mat-list-item class="list-element-style">
+          <button mat-button color="primary"  class="button-style" >Deposit</button>
+        </mat-list-item>
+        <mat-list-item class="list-element-style">
+          <button mat-button color="primary" class="button-style">Withdraw</button>
+        </mat-list-item>
+      </mat-list>
+
+      
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+      <b>Main</b>
+      <router-outlet></router-outlet>
+
+    </mat-sidenav-content>
+
+  </mat-sidenav-container>
+
+</div>

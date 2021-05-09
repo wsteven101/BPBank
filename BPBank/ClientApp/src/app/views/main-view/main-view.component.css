@@ -1,0 +1,39 @@
+.body {
+  border-color: red;
+  border-bottom-style: solid;
+  height: 100%;
+}
+
+.main-container {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-color: green;
+  border: solid;
+  height: 100%;
+}
+
+.side-section {
+  width: 400px;
+  height: 100%;
+}
+
+.list-style {
+  height: 100%;
+  width: 100%;
+}
+
+.list-element-style {
+    margin: 10px;
+}
+
+.button-style {
+    width: 200px;
+    height: 100%;
+    margin: 5px;
+    border:solid;
+    border-color: blue;
+    border-radius: 10px;
+    font-size: larger;
+}
