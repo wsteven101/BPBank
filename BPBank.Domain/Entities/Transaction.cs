@@ -13,7 +13,7 @@ namespace BPBank.Domain.Entities
         public int TransactionId { get; set; }
         public int AccountId { get; set; }
         public Account Account { get; set; }
-        public TransferType Operation { get; set}
+        public TransferType Operation { get; set; }
         public int ExternalAccountAccountId { get; set; }
         public Account ExternalAccount { get; set; }
         public decimal Amount{ get; set; }

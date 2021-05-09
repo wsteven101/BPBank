@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj": {}
+    "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\tmp\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj": {
+    "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\tmp\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\tmp\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj",
         "projectName": "BPBank.Domain",
-        "projectPath": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj",
+        "projectPath": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\tmp\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj",
         "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\BPBank\\BPBank.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\tmp\\BPBank\\BPBank.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

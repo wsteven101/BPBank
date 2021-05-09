@@ -10,3 +10,15 @@ C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.Domain\o
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.Domain\obj\Debug\net5.0\ref\BPBank.Domain.dll
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.pdb
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.csprojAssemblyReference.cache
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.csprojAssemblyReference.cache
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.AssemblyInfoInputs.cache
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.AssemblyInfo.cs
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\obj\Debug\net5.0\ref\BPBank.Domain.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\obj\Debug\net5.0\BPBank.Domain.pdb
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\bin\Debug\net5.0\BPBank.Domain.deps.json
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\bin\Debug\net5.0\BPBank.Domain.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\bin\Debug\net5.0\ref\BPBank.Domain.dll
+C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\BPBank.Domain\bin\Debug\net5.0\BPBank.Domain.pdb

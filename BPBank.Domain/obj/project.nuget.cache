@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "apRWlHd3fqD88gu6YLk7YWG5ARXFJxJZ7s+QYke8T+z0oJ672CxnmByAPp9kgZFEFVwfzjR09NU0Z5twcmjBOQ==",
+  "dgSpecHash": "FkcbjvRWlzORhSbj5Ra2kt7SNc4ge+ZG305CSHfLSa9pg+JmV/y2zECU6Zb6jTxIOb0V7zEYIPF7Z7vwGTz/vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\tmp\\BPBank\\BPBank.Domain\\BPBank.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

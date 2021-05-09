@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lmjFRs/rr85Aiic3DYwtBX809dj7dnyPvrK40Yzc+J41ovVwCSbpRwFTyBYnq4FDRDyLszSYlgECu89w4OFRTQ==",
+  "dgSpecHash": "yWhVR8BrDSSWJqpPEKF9p+wrstnK5gYrpuE8hZgFxdlYHB0f654HhwM8zZQLPJ0DCcPcWWesUCU4s35P4bJTvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\BPBank\\Test.BPBank\\Test.BPBank.csproj",
+  "projectFilePath": "C:\\Users\\Steve\\WorkArea\\Development\\TransferArea\\20171210\\tmp\\BPBank\\Test.BPBank\\Test.BPBank.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steve\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",

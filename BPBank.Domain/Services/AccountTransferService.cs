@@ -18,7 +18,6 @@ namespace BPBank.Domain.Services
         public async Task Transfer(
             int fromAccount, 
             int toAccount, 
-            TransferType, 
             decimal amount)
         {
 
