@@ -10,16 +10,13 @@ namespace BPBank.Domain.Entities
 
     public class Transaction
     {
-        public int TransactionId { get; set; }
-        public int AccountId { get; set; }
-        public Account Account { get; set; }
+        public int Id { get; set; }
+        public int FromAccountId { get; set; }
         public TransferType Operation { get; set; }
-        public int ExternalAccountAccountId { get; set; }
-        public Account ExternalAccount { get; set; }
-        public decimal Amount{ get; set; }
-        public int? FromCcyCurrencyId { get; set; }
-        public Currency? FromCcy { get; set; }
-        public int? ToCcyCurrencyId { get; set; }
-        public Currency? ToCcy { get; set; }
+        public int ToAccountId { get; set; }
+        public decimal FromAmount{ get; set; }
+        public int? FromCcyId { get; set; }
+        public decimal ToAmount { get; set; }
+        public int? ToCcyId { get; set; }
     }
 }

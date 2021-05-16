@@ -23,26 +23,28 @@ namespace BPBank.Data
                     HasOne(a => a.BaseCcy);
 
             modelBuilder.Entity<Currency>().HasData(
-                new { CurrencyId = 1, ISOCode = "GBP", ExternalId = "GBP", Description = "British Pounds" },
-                new { CurrencyId = 2, ISOCode = "USD", ExternalId = "USD", Description = "United States Dollars" },
-                new { CurrencyId = 3, ISOCode = "EUR", ExternalId = "EUR", Description = "EU Euros" });
+                new { Id = 1, ISOCode = "GBP", ExternalId = "GBP", Description = "British Pounds" },
+                new { Id = 2, ISOCode = "USD", ExternalId = "USD", Description = "United States Dollars" },
+                new { Id = 3, ISOCode = "EUR", ExternalId = "EUR", Description = "EU Euros" });
 
             modelBuilder.Entity<Account>().HasData(
-                new Account { AccountId = 1, UserId=1, AccNumber="123456", BaseCcyCurrencyId = 1 },
-                new Account { AccountId = 2, UserId=1, AccNumber="764321", BaseCcyCurrencyId = 2 },
-                new Account { AccountId = 3, UserId=2, AccNumber="827419", BaseCcyCurrencyId = 3 });
+                new Account { Id = 1, UserId=1, AccNumber="123456", Balance=25000m, BaseCcyId = 1 },
+                new Account { Id = 2, UserId=1, AccNumber="764321", Balance = 47000m, BaseCcyId = 2 },
+                new Account { Id = 3, UserId=2, AccNumber="827419", Balance = 8000m, BaseCcyId = 3 },
+                new Account { Id = 4, UserId = 1, AccNumber = "243970", Balance = 4000m, BaseCcyId = 1 },
+                new Account { Id = 5, UserId = 1, AccNumber = "100321", Balance = 500m, BaseCcyId = 1 });
 
             modelBuilder.Entity<User>().HasData(
                 new User
                 {
-                    UserId = 1,
+                    Id = 1,
                     FirstName = "Fred",
                     Surname = "Flintstone",
                     LoginName = "fred"
                 },
                 new User
                 {
-                    UserId = 2,
+                    Id = 2,
                     FirstName = "Barney",
                     Surname = "Rubble",
                     LoginName = "barney"

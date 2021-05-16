@@ -7,7 +7,7 @@ namespace BPBank.Domain.Entities
 {
     public class Currency
     {
-        public int CurrencyId { get; set; }
+        public int Id { get; set; }
         public string ISOCode { get; set; }
         public string ExternalCode { get; set; }
         public string Description { get; set; }

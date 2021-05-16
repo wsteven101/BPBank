@@ -38,6 +38,8 @@ namespace BPBank
 
             services.AddDbContext<BPBankContext>(
     options => options.UseSqlServer(Configuration.GetConnectionString("BPBankDB")));
+            services.AddHttpClient();
+
             services.AddScoped<IUserRepo, UserRepo>();
             services.AddScoped<IAccountBalanceService, AccountBalanceService>();
             services.AddSingleton<IFXRateService, FXRateService>();
@@ -58,7 +60,7 @@ namespace BPBank
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
             app.UseStaticFiles();
             if (!env.IsDevelopment())
             {

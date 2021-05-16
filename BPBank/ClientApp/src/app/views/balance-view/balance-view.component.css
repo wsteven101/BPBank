@@ -1,0 +1,32 @@
+.wrapper {
+  width: inherit;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 10px;
+  border-color: brown;
+  border: transparent;
+  margin: 20px;
+}
+
+.title {
+  margin: auto;
+  width: 25%;
+  padding: 10px;
+  font-size: larger;
+}
+
+.table-item {
+  font-size: larger;
+  margin: auto;
+  width: 50%;
+}
+
+th, td {
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

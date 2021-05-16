@@ -160,16 +160,6 @@ C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\obj\Debug\net5.0\Test.BPBank.AssemblyInfo.cs
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\obj\Debug\net5.0\Test.BPBank.csproj.CoreCompileInputs.cache
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\appsettings.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\angular.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\e2e\tsconfig.e2e.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\package-lock.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\package.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\src\tsconfig.app.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\src\tsconfig.server.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\src\tsconfig.spec.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\src\tslint.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\tsconfig.json
-C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\OrigClientApp\tslint.json
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\NUnit3.TestAdapter.dll
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
 C:\Users\Steve\WorkArea\Development\TransferArea\20171210\tmp\BPBank\Test.BPBank\bin\Debug\net5.0\nunit.engine.dll

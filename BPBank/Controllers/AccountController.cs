@@ -6,6 +6,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BPBank.Domain.Contracts.DomainServices;
+using Microsoft.Extensions.Logging;
+using BPBank.DTO;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -17,10 +19,14 @@ namespace BPBank.Controllers
     public class AccountController : ControllerBase
     {
         private readonly IAccountBalanceService _accountBalanceService;
+        private readonly ILogger<AccountController> _logger;
 
-        public AccountController(IAccountBalanceService accountBalanceService) 
+        public AccountController(
+            IAccountBalanceService accountBalanceService,
+            ILogger<AccountController> logger) 
         {
             _accountBalanceService = accountBalanceService;
+            _logger = logger;
         }
 
         // GET: api/<AccountController>
@@ -32,12 +38,12 @@ namespace BPBank.Controllers
 
         // GET api/<AccountController>/5
         [HttpGet("user/{id}")]
-        public async Task<ActionResult<IEnumerable<Account>>> GetAccounts(string id)
+        public async Task<ActionResult<List<AccountBalanceDTO>>> GetAccounts(string id)
         {
             try
             {
                 var balances = await _accountBalanceService.GetUserBalances(id);
-                return balances.ToList();
+                return balances.Select(a => new AccountBalanceDTO(a)).ToList();
             }
             catch (Exception ex)
             {
